@@ -1,0 +1,17 @@
+.Cavalo {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.Cavalo-sprite_cobra_mistica_150x150_final {
+    width: 150px;
+    height: 150px;
+    background-position: 0 0;
+}
+
+.Cavalo-sprite_cobra_verde_150x150_final {
+    width: 150px;
+    height: 150px;
+    background-position: -150px 0;
+}
